@@ -1,0 +1,4 @@
+2x16 LDC'nin ilk satýrýnda 0-200 arasý 0.5 saniyede bir artarak sayan;
+ikinci satýrda baþlangýç deðeri 100 olan ve butonlarla arttýrýlýp azaltýlan uygulamayý gerçekleyiniz.
+
+Not: 0.5 saniye süreyi timer ve kesme kullanarak yapýnýz.

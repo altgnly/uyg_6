@@ -1,0 +1,18 @@
+Warning[207] D:\MIKROISLEMCILER\2018GUZDONEMI\6.DENEY\DENEY-6.ASM 4 : Found label after column 1. (SAYICI1)
+Warning[207] D:\MIKROISLEMCILER\2018GUZDONEMI\6.DENEY\DENEY-6.ASM 5 : Found label after column 1. (SAYICI2)
+Warning[207] D:\MIKROISLEMCILER\2018GUZDONEMI\6.DENEY\DENEY-6.ASM 6 : Found label after column 1. (LCD_DEG)
+Warning[207] D:\MIKROISLEMCILER\2018GUZDONEMI\6.DENEY\DENEY-6.ASM 7 : Found label after column 1. (ONLAR)
+Warning[207] D:\MIKROISLEMCILER\2018GUZDONEMI\6.DENEY\DENEY-6.ASM 8 : Found label after column 1. (BIRLER)
+Warning[207] D:\MIKROISLEMCILER\2018GUZDONEMI\6.DENEY\DENEY-6.ASM 9 : Found label after column 1. (YUZLER)
+Warning[207] D:\MIKROISLEMCILER\2018GUZDONEMI\6.DENEY\DENEY-6.ASM 10 : Found label after column 1. (BSM_ONLAR)
+Warning[207] D:\MIKROISLEMCILER\2018GUZDONEMI\6.DENEY\DENEY-6.ASM 11 : Found label after column 1. (BSM_BIRLER)
+Warning[207] D:\MIKROISLEMCILER\2018GUZDONEMI\6.DENEY\DENEY-6.ASM 12 : Found label after column 1. (BSM_YUZLER)
+Warning[207] D:\MIKROISLEMCILER\2018GUZDONEMI\6.DENEY\DENEY-6.ASM 13 : Found label after column 1. (DEG)
+Warning[207] D:\MIKROISLEMCILER\2018GUZDONEMI\6.DENEY\DENEY-6.ASM 14 : Found label after column 1. (DEG2)
+Warning[207] D:\MIKROISLEMCILER\2018GUZDONEMI\6.DENEY\DENEY-6.ASM 15 : Found label after column 1. (SAYAC)
+Warning[207] D:\MIKROISLEMCILER\2018GUZDONEMI\6.DENEY\DENEY-6.ASM 16 : Found label after column 1. (SAYAC2)
+Warning[207] D:\MIKROISLEMCILER\2018GUZDONEMI\6.DENEY\DENEY-6.ASM 17 : Found label after column 1. (SAYACTIMER)
+Message[302] D:\MIKROISLEMCILER\2018GUZDONEMI\6.DENEY\DENEY-6.ASM 26 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\MIKROISLEMCILER\2018GUZDONEMI\6.DENEY\DENEY-6.ASM 28 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\MIKROISLEMCILER\2018GUZDONEMI\6.DENEY\DENEY-6.ASM 30 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] D:\MIKROISLEMCILER\2018GUZDONEMI\6.DENEY\DENEY-6.ASM 37 : Register in operand not in bank 0.  Ensure that bank bits are correct.

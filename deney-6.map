@@ -1,0 +1,92 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Mon Dec 03 18:33:32 2018
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000004    program   0x00019e
+   .config_2007_DENEY-6.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x0000d2      
+                            0x002007    0x002007      
+            209 out of 8454 program addresses used, program memory utilization is 2%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                ANA_METOT   0x000005    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+              ARTIR_METOT   0x000097    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+              AZALT_METOT   0x000091    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+                  BUTOND1   0x0000a0    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+                  BUTOND2   0x0000a8    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+                  BUTOND3   0x0000b0    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+                       D1   0x000063    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+                       D2   0x00006b    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+                       D3   0x000073    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+                  GECIKME   0x0000ca    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+             KARAKTER_YAZ   0x000030    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+              KESME_METOT   0x00004e    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+                KOMUT_YAZ   0x00003f    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+                  KONTROL   0x00002b    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+             KONTROL_STR1   0x000063    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+        KONTROL_STR1BUTON   0x00009d    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+       KONTROL_STR1BUTON2   0x0000a6    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+       KONTROL_STR1BUTON3   0x0000ae    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+             KONTROL_STR2   0x000069    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+             KONTROL_STR3   0x000071    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+              LCD_AYARLAR   0x000079    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+             LCD_AYARLAR2   0x0000b6    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+      LCD_KARAKTER_GONDER   0x000036    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+         LCD_KOMUT_GONDER   0x000045    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+           SATIR1_AYARLAR   0x00008e    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+           SATIR2_AYARLAR   0x00008b    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+          SONLANDIR_METOT   0x00005e    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+                  TEKRAR1   0x0000cc    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+                  TEKRAR2   0x0000ce    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                ANA_METOT   0x000005    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+                  KONTROL   0x00002b    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+             KARAKTER_YAZ   0x000030    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+      LCD_KARAKTER_GONDER   0x000036    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+                KOMUT_YAZ   0x00003f    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+         LCD_KOMUT_GONDER   0x000045    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+              KESME_METOT   0x00004e    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+          SONLANDIR_METOT   0x00005e    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+             KONTROL_STR1   0x000063    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+                       D1   0x000063    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+             KONTROL_STR2   0x000069    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+                       D2   0x00006b    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+             KONTROL_STR3   0x000071    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+                       D3   0x000073    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+              LCD_AYARLAR   0x000079    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+           SATIR2_AYARLAR   0x00008b    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+           SATIR1_AYARLAR   0x00008e    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+              AZALT_METOT   0x000091    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+              ARTIR_METOT   0x000097    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+        KONTROL_STR1BUTON   0x00009d    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+                  BUTOND1   0x0000a0    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+       KONTROL_STR1BUTON2   0x0000a6    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+                  BUTOND2   0x0000a8    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+       KONTROL_STR1BUTON3   0x0000ae    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+                  BUTOND3   0x0000b0    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+             LCD_AYARLAR2   0x0000b6    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+                  GECIKME   0x0000ca    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+                  TEKRAR1   0x0000cc    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+                  TEKRAR2   0x0000ce    program     static D:\mikroislemciler\2018GuzDonemi\6.deney\deney-6.asm
+
+
